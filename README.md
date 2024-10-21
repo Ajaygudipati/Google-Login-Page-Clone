@@ -17,3 +17,9 @@ Hover Effects: Interactive elements, like buttons, feature hover effects to enha
 
 
 ![Img_2](https://github.com/user-attachments/assets/f6800449-c9e7-4ede-8988-620d41b916b4)
+
+Look At the below Hovering Very Small Details are considered and made this clone project.
+![Img_3](https://github.com/user-attachments/assets/7715608e-8587-450d-96dc-3701b8ea4402)
+![Img_4](https://github.com/user-attachments/assets/30961454-1f8b-4374-9f2c-284f94141c17)
+![Img_5](https://github.com/user-attachments/assets/2a5ddcf3-a692-46f2-b883-e01c98149066)
+![Img_6](https://github.com/user-attachments/assets/5ae6694e-81b0-4d8e-a5ee-e4f4c751b10b)
