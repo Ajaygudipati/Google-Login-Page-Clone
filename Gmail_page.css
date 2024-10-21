@@ -1,0 +1,141 @@
+body{
+    background-color: #f0f4f9;
+}
+#parent{
+    width: 75%;
+    height:400px;
+    background-color: white;
+    margin: 150px auto;
+    border-radius: 20px;
+}
+.child{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+#google_logo{
+    width: 40px;
+    margin-left: 40px;
+    margin-top: 40px
+}
+#signin_heading{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: normal;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+#statement{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 40px;
+    margin-top: -20px;
+}
+fieldset{
+    width: 450px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 100px;
+    border-color: royalblue ;
+    color: blue;
+    border-radius: 5px;
+}
+input{
+    width: 450px;
+    height: 30px;
+    border: transparent;
+    outline: none;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#left_para{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 30px;
+}
+#left_para2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: -15px;
+    color: #0b57d0;
+}
+#forgot{
+    height: 30px;
+    border-radius: 8px;
+    margin-top: 5px;
+    border: transparent;
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #0b57d0;
+    font-weight: 500;
+}
+#forgot:hover{
+    height: 30px;
+    background-color: rgb(230, 249, 255);
+}
+.button_div{
+    width: 50%;
+    float: right;
+}
+#Create_button{
+    width: 50%;
+    height: 40px;
+    margin-top  : 20px;
+    border-radius: 20px;
+    border: none;
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 200px;
+    color: #0b57d0;
+    font-weight: bold;
+
+}
+#Create_button:hover{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(230, 249, 255);
+}
+#next_button{
+    width: 75px;
+    height: 40px;
+    float: right;
+    margin-top: -40px;
+    margin-right: 40px;
+    border-radius: 20px;
+    background-color: #0b57d0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    outline: none;
+    border: none;
+}
+#next_button:hover{
+    background-color: darkblue;
+}
+#languages{
+    width: 200px;
+    height: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 15px;
+    border-radius: 8px;
+    border: none;
+    background-color: #f0f4f9;
+}
+.option{
+    background-color: #f0f4f9;
+    border: none;
+    outline: none;
+}
+#languages:hover{
+    background-color: rgb(217, 217, 217);
+}
+.three_button_division{
+    float: right;
+    margin-top: 15px;
+}
+.three_buttons{
+    border: none;
+    border-radius: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f4f9;
+}
+#Help,#Privacy{
+    margin-right: 8px;
+}
+.three_buttons:hover{
+    background-color: rgb(217, 217, 217);
+}
